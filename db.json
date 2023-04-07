@@ -1,1 +1,19 @@
-
+[  
+{
+    "bookTitle": "test",
+    "bookWriter": "test",
+    "nbPages": 10,
+    "bookPrice": 20,
+    "bookResume": "test",
+    "id": 39
+  },
+  {
+    "bookTitle": "a",
+    "bookWriter": "a",
+    "nbPages": 10,
+    "bookPrice": 10,
+    "bookResume": "a",
+    "id": 40
+  }
+]
+  
